@@ -1,8 +1,10 @@
 2026/09/15 22:40:30
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: alayna68@aol.com, jimjls@hotmail.com
-At: 2026-09-15 22:41:28
-Id: hCeCmM5N
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: gapatsi@yahoo.com, lindysims@yahoo.com
+At: 2026-09-15 22:42:07
+Id: 9exVz2jk
